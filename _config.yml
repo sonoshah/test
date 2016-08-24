@@ -9,12 +9,12 @@ title:               Data Blog
 tagline:             'Political Science, Big Data, machine learning'
 description:         'Not really sure What this site will be yet'
 url:                 sonoshah.github.io
-baseurl:             'sonoshah.github.io'
+baseurl:             'www.sonoshah.github.io'
 paginate:            5
 paginate_path: "page:num"
 
 # About/contact
-author:
+author: 'Sono Shah'
   name:              
   url:               
   email:            
