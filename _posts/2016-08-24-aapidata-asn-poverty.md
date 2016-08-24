@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asian Detailed Origin
+title: AAPI Poverty
 ---
 
 # Example Dashboard in Tableau Public
