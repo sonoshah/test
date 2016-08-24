@@ -22,6 +22,7 @@ author:
 # Pages
 pages:
   Example: 'Example'
+  Archive: 'Archive'
 
 # Custom vars
 version:             1.0.0
