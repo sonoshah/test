@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Data Blog
 tagline:             'Political Science, Big Data, machine learning'
 description:         'Not really sure What this site will be yet'
-url:                 sonoshah.github.io/
+url:                 www.sonoshah.github.io
 baseurl:             
 paginate:            5
 paginate_path: "page:num"
