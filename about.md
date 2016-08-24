@@ -13,5 +13,5 @@ I'll probably use this to house data and other projects
 
 Check out [My Work](www.sonoshah.com)
 
-<iframe src="https://public.tableau.com/views/Test-AsianDetailedOrigin_V3/Dashboard2?:showVizHome=no&:embed=true"></iframe>
+<iframe src="https://public.tableau.com/views/Test-AsianDetailedOrigin_V3/Dashboard2?:showVizHome=no&:embed=true" width ="1200" height ="1100" ></iframe>
 
