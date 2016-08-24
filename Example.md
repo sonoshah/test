@@ -4,16 +4,6 @@ title: Example
 ---
 
 <p class="message">
-  Testing this message thing? Like a pull out quote
+Not Currently In use...
 </p>
-
-I'll probably use this to house data and other projects
-
-## My Personal Site
-
-Check out [My Work](www.sonoshah.com)
-
-## Test of some stuff
-
-<iframe src="https://public.tableau.com/views/PovertySTATE/Poverty?:showVizHome=no&:embed=true" width ="850" height ="750" scrolling="yes" frameBorder="0" ></iframe>
 
