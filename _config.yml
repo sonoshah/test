@@ -19,5 +19,9 @@ author:
   url:               
   email:            
 
+# Pages
+pages:
+  Example: 'Example'
+
 # Custom vars
 version:             1.0.0
